@@ -50,6 +50,11 @@
     "peerDependencies": {
         "react": "^16.8.6 || 17 - 19"
     },
+    "overrides": {
+        "react-script-hook": {
+            "react": "^16.8.6 || 17 - 19"
+        }
+    },
     "files": [
         "dist"
     ],
